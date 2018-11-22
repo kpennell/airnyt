@@ -51,7 +51,7 @@ class MapAndMarkers extends React.Component {
       <div style={{width:"100%", height:"100%"}}>
         <GoogleMapReact
           bootstrapURLKeys={{
-            key: "AIzaSyBBvQLI7BPpXln_Jzl_tIUVH1f775C7GXM",
+            key: "AIzaSyBBvQLIaa7BPpXweweln_Jzl_tIUVH1f775C7GXM",
             v: "3.31"
           }}
           defaultCenter={this.props.center}
